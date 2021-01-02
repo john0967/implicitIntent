@@ -1,5 +1,5 @@
 # implicitIntent
-anser for choice<br>
+answer for choice<br>
 1.d<br>
 2.d<br>
 3.c<br>
